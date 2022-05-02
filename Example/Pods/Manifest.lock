@@ -1,0 +1,16 @@
+PODS:
+  - SmileMeatsUIComponents (1.0.0)
+
+DEPENDENCIES:
+  - SmileMeatsUIComponents (from `../SmileMeatsUIComponents`)
+
+EXTERNAL SOURCES:
+  SmileMeatsUIComponents:
+    :path: "../SmileMeatsUIComponents"
+
+SPEC CHECKSUMS:
+  SmileMeatsUIComponents: ea1d8f416cd65dce8c563ccde6c7290e75522a2c
+
+PODFILE CHECKSUM: 54ffffa9b1cb42e79a27a3b3f206ae9658157688
+
+COCOAPODS: 1.11.3
